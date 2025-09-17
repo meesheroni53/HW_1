@@ -146,9 +146,11 @@ print(difference)
 # is near 0, showing that the bootstrapping produced estimates close to the original estimates. It  shows
 # that our estimates are reliable and there is low bias in the estimates.
 
+#Sources:
 #https://medium.com/@okon.judith/create-datasets-yourself-fa6596d03778,  
 #https://www.geeksforgeeks.org/numpy/normal-distribution-in-numpy/,
 #https://numpy.org/doc/2.2/reference/random/generated/numpy.random.uniform.html, 
 #https://medium.com/@whyamit404/understanding-train-test-split-in-pandas-eb1116576c66,
 #https://www.geeksforgeeks.org/machine-learning/python-linear-regression-using-sklearn/, 
 #https://www.datacamp.com/tutorial/sklearn-linear-regression
+
